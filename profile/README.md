@@ -32,7 +32,7 @@
 - React + TypeScript + Vite
 - React Router
 - Tailwind CSS
-- ESLint / Prettier
+- ESLint / Prettier (정적분석툴;코드 버그 / JS 코드의 스타일;[줄 바꿈, 띄어쓰기, 따옴표, 공백]을 중점적으로 수정해줌]
 
 ### Backend (계획/또는 진행 중인 것)
 
